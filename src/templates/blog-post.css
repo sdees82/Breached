@@ -1,0 +1,8 @@
+.blog_page_container{
+    padding-top: 2rem;
+}
+
+.blog_page_inner{
+    max-width: 960px;
+    margin: auto;
+}
