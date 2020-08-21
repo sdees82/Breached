@@ -637,6 +637,12 @@ pre tt:after {
   background-position: center;
 }
 
+@media screen and (max-width: 600px){
+  .hero{
+    background-size: contain
+  }
+}
+
 .preview_container{
   display: flex;
   justify-content: space-between;
