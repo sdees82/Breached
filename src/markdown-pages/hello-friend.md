@@ -2,7 +2,7 @@
 
 title: "Hello Friend"
 message: "bp1.0_hellofriend.sh"
-date: "2020-08-18"
+date: "2020-08-20"
 description: "Making the move from web development to cybersecurity"
 
 ---

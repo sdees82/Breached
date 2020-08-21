@@ -22,7 +22,8 @@ const Header = ({ siteTitle }) => (
         margin: `0 auto`,
         maxWidth: 960,
         display: `flex`,
-        alignItems: `center`
+        alignItems: `center`,
+        padding: `0 1rem`
       }}
     >
       <div>
