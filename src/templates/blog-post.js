@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import HyvorTalk from 'hyvor-talk-react'
 import Header from '../components/header'
 import './blog-post.css'
 
@@ -15,6 +16,7 @@ export default ({data}) =>{
             <p>{post.frontmatter.date}</p>
             <div dangerouslySetInnerHTML={{ __html: post.html}}></div>
             </div>
+                <HyvorTalk.Embed websiteId={1715} id={post.frontmatter.title} />
             <footer style={{background: `#000`}}>
                 <div className="footer_inner" style={{maxWidth: `960px`, margin: `auto`, padding: `1rem 0`}}>
                     <span>© {new Date().getFullYear()}, Built with</span>

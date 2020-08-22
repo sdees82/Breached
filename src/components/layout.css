@@ -632,8 +632,8 @@ pre tt:after {
 
 .hero{
   min-height: 50vh;
-  background: url('../images/breached-logo.png') no-repeat #000;
-  background-size: cover;
+  background: url('../images/breached-v3.png') no-repeat #000;
+  background-size: contain;
   background-position: center;
 }
 

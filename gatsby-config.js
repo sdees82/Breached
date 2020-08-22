@@ -35,6 +35,25 @@ module.exports = {
     `gatsby-plugin-fontawesome-css`,
     `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 500,
+            },
+          },
+        ],
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`,
+      },
+    },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-sharp`,
     {

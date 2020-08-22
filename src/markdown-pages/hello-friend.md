@@ -3,28 +3,24 @@
 title: "Hello Friend"
 message: "bp1.0_hellofriend.sh"
 date: "2020-08-20"
-description: "Making the move from web development to cybersecurity"
+description: "Hello Friend. This blog will the detail steps I'm taking to learn about the exciting field of cybersecurity."
 
 ---
 
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
 
-
-## Horizontal Rules
-
-___
-
----
-
+# STARTED FROM THE BOTTOM...NOW WE'RE HERE
 ***
 
+A little about me...
 
-## Typographic replacements
+Way back in 2001, I stumbled across a local government funded organization that offered free classes in a number of different fields with the only criteria being that you had to be a resident of the city of Detroit, MI and between the ages of 18 and 24. I was specifically drawn to the two technology classes they offered which were PC repair and web development. I remember one of the career counselors mentioned how difficult it would be to get a position as a web developer (some things never change) as the industry was still trying to recover from the Dot-com bubble bursting, but that I should learn about buy domains and selling them to larger companies as a way to make easy money. Ultimately, I choose to learn PC repair and spent every moment of every hour learning everything I could.
+
+After completing the program, I took and passed the compTIA A+ exam after a few months of study. Back then, the ceritifications were good for life, so you never had to worry about them expiring. 
+
+![Comptia](../images/comptia.png "Comptia certification")
+
+In 2016, I decided to make the journey into the exciting field of professional web development and was able to land a job after about a year of self-taught learning.
+<!-- ## Typographic replacements
 
 Enable typographer option to see result.
 
@@ -239,4 +235,4 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 ::: warning
 *here be dragons*
-:::
+::: -->
