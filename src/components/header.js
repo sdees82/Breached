@@ -14,7 +14,7 @@ const Header = ({ siteTitle }) => (
       position: `sticky`,
       top: `0`,
       width: `100%`,
-      zindex: 1
+      zIndex: 1
       // borderBottom: `1px solid rgba(255, 255, 255, 1)`
     }}
   >
