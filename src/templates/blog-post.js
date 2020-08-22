@@ -15,8 +15,8 @@ export default ({data}) =>{
             <h1>{post.frontmatter.title}</h1>
             <p>{post.frontmatter.date}</p>
             <div dangerouslySetInnerHTML={{ __html: post.html}}></div>
+            <HyvorTalk.Embed websiteId={1715} id={post.frontmatter.title} />
             </div>
-                <HyvorTalk.Embed websiteId={1715} id={post.frontmatter.title} />
             <footer style={{background: `#000`}}>
                 <div className="footer_inner" style={{maxWidth: `960px`, margin: `auto`, padding: `1rem 0`}}>
                     <span>© {new Date().getFullYear()}, Built with</span>
