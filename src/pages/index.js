@@ -19,7 +19,7 @@ const IndexPage = ({data}) => (
               <BlogTitle>{node.frontmatter.title}</BlogTitle>
               <p>{node.frontmatter.message}</p>
               <p>{node.frontmatter.description}</p>
-              <p>Timestamp: {node.frontmatter.date}</p>
+              <p>{node.frontmatter.date}</p>
             </BlogLink>
           </div>
         ))

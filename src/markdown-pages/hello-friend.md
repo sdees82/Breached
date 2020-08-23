@@ -2,24 +2,33 @@
 
 title: "Hello Friend"
 message: "bp1.0_hellofriend.sh"
-date: "2020-08-20"
-description: "Hello Friend. This blog will the detail steps I'm taking to learn about the exciting field of cybersecurity."
+date: "08/22/2020"
+description: "Hello Friend. This blog will detail the steps I'm taking to learn about the exciting field of cybersecurity."
 
 ---
 
-
-# STARTED FROM THE BOTTOM...NOW WE'RE HERE
 ***
 
 A little about me...
 
-Way back in 2001, I stumbled across a local government funded organization that offered free classes in a number of different fields with the only criteria being that you had to be a resident of the city of Detroit, MI and between the ages of 18 and 24. I was specifically drawn to the two technology classes they offered which were PC repair and web development. I remember one of the career counselors mentioned how difficult it would be to get a position as a web developer (some things never change) as the industry was still trying to recover from the Dot-com bubble bursting, but that I should learn about buy domains and selling them to larger companies as a way to make easy money. Ultimately, I choose to learn PC repair and spent every moment of every hour learning everything I could.
+Way back in 2001, I stumbled across a local government funded organization that offered free classes in a number of different fields with the only criteria being that you had to be a resident of the city of Detroit, MI and between the ages of 18 and 24. I was specifically drawn to the two technology classes they offered which were PC repair and web development. I remember one of the career counselors mentioned how difficult it would be to get a position as a web developer (some things never change) as the industry was still trying to recover from the Dot-com bubble bursting, but that I should learn about buying domains and selling them to larger companies as a way to make easy money. Ultimately, I choose to learn PC repair and spent every moment of every hour learning everything I could.
 
-After completing the program, I took and passed the compTIA A+ exam after a few months of study. Back then, the ceritifications were good for life, so you never had to worry about them expiring. 
+After completing the program, I took and passed the CompTIA A+ exam after a few months of study. Back then, the certifications were good for life, so you never had to worry about them expiring. 
 
 ![Comptia](../images/comptia.png "Comptia certification")
 
-In 2016, I decided to make the journey into the exciting field of professional web development and was able to land a job after about a year of self-taught learning.
+After not having any luck securing a PC repair position, my mom introduced me to the guys in the IT department at her employer and they encouraged me to attain the CompTIA Network+ certification to increases my chances of getting hired. While studying for the exam, I was able to attain a entry-level help desk position and soon realized that I was not cut out for that line of work. I wanted to be hands-on with the box, not guiding customers through their problems.
+Not long after that, I got a job in a factory and abandoned the Network+ certification any dreams of landing another position in IT. 
+
+![Comptia](../images/help-desk.jpg "Help Desk Meme")
+
+Fast forward to 2016 where I grew unhappy and unfullfilled with my career and the work I was doing. I wanted more out of life than working a position that left me mentally and physically drained. I decided I would try to land a job as a web developer and began using online resources to teach myself how to code. I bought a MacBook, purchased a subscription to Treehouse and spent every evening learning as much as a could. Forunately for me, the company I worked for at the time decided to layoff 50 percent of their workforce and I was able to devote all my time improving as a developer.
+
+As a side business, I began programming and selling Android Boxes and thought I'd be able to reach a bigger audience by building a website. [Windsor Android Boxes](https://sdees82.github.io/WindsorAndroidBox/#contact "Windsor Android Boxes") was the first site I ever built and it was such a big accomplishment for me at the time (although It's pretty terrible). I proved to myself that this was something I could actually do on a professional level. A short time after building that site I was able to land a full-time developer job and have been working for them for almost 4 years now.
+
+I've been pretty successful as a developer and I've been able to work on really exciting projects. My biggest accomplishment by far was working on the E-commerce store for the 2019 NBA Champion Toronto Raptors. I was also able to work on projects for the Pittsburg Penguins, La Sparks, Seattle Storm, Winnipeg Blue Bombers, Toronto FC and many more professional sports organizations.
+
+As rewarding as web development is, I'm now looking to gain even more skills and one area that I've really been drawn to the last couple of years is cybersecurity. My goal for the next few months is to study and gain a few certifications, specifically the Network+ and Security+ . I plan to have both ceritifcations under my belt by the end of the year. I'll be using this blog as a way to document my journey as I explore this very exciting field. 
 <!-- ## Typographic replacements
 
 Enable typographer option to see result.
