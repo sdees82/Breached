@@ -10,7 +10,6 @@ const IndexPage = ({data}) => (
     <div>
       <div className="hero"/>
       <div className="preview_container">
-        {console.log(data)}
       {
         data.allMarkdownRemark.edges.map(({node}) => (
           
