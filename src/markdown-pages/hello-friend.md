@@ -1,9 +1,9 @@
 ---
 
 title: "Hello Friend"
-message: "bp1.0_hellofriend.sh"
-date: "08/22/2020"
-description: "Hello Friend. This blog will detail the steps I'm taking to learn about the exciting field of cybersecurity."
+message: "bp1.0_hellofriend.mov"
+date: "08/21/2020"
+description: "A little about me. This blog will detail the steps I'm taking to learn about the exciting field of cybersecurity."
 
 ---
 
@@ -26,7 +26,7 @@ Fast forward to 2016 where I grew unhappy and unfullfilled with my career and th
 
 As a side business, I began programming and selling Android Boxes and thought I'd be able to reach a bigger audience by building a website. [Windsor Android Boxes](https://sdees82.github.io/WindsorAndroidBox/#contact "Windsor Android Boxes") was the first site I ever built and it was such a big accomplishment for me at the time (although It's pretty terrible). I proved to myself that this was something I could actually do on a professional level. A short time after building that site I was able to land a full-time developer job and have been working for them for almost 4 years now.
 
-I've been pretty successful as a developer and I've been able to work on really exciting projects. My biggest accomplishment by far was working on the E-commerce store for the 2019 NBA Champion Toronto Raptors. I was also able to work on projects for the Pittsburg Penguins, La Sparks, Seattle Storm, Winnipeg Blue Bombers, Toronto FC and many more professional sports organizations.
+I've been pretty successful as a developer and I've been able to work on really exciting projects. My biggest accomplishment by far was working on the E-commerce store for the [2019 NBA Champion Toronto Raptors](https://raptorschampionshipring.com "2019 NBA Champion Toronto Raptors"). I was also able to work on projects for the Pittsburg Penguins, La Sparks, Seattle Storm, [Winnipeg Blue Bombers](https://bluebombersring.com "Winnipeg Blue Bombers"), Toronto FC and many more professional sports organizations.
 
 As rewarding as web development is, I'm now looking to gain even more skills and one area that I've really been drawn to the last couple of years is cybersecurity. My goal for the next few months is to study and gain a few certifications, specifically the Network+ and Security+ . I plan to have both ceritifcations under my belt by the end of the year. I'll be using this blog as a way to document my journey as I explore this very exciting field. 
 <!-- ## Typographic replacements
