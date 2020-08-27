@@ -40,12 +40,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 500,
-            },
-          },
-          {
             resolve: `gatsby-remark-twitter-cards`,
             options: {
               title: 'Breached.blog', // website title
@@ -56,6 +50,12 @@ module.exports = {
               titleFontSize: 96, // default
               subtitleFontSize: 60, // default
               fontStyle: 'Share Tech Mono', // default
+            },
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 500,
             },
           },
         ],
