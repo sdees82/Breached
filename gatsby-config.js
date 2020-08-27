@@ -6,6 +6,17 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-plugin-social-cards",
+      options: {
+        // image to use when no cover in frontmatter
+        backgroundImage: "./src/images/breached-social.jpg",
+        // author to use when no auth in frontmatter
+        defaultAuthor: "Sean Dees",
+        // card design
+        design: "default", // 'default' or 'card'
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
