@@ -69,7 +69,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: `https://breached.blog/images/breached-social.jpg`,
+          content: `/social-card-317aa66e-ebfd-5b30-9eb4-0c848c69a9b0.jpg`,
         },
       ].concat(meta)}
     />
