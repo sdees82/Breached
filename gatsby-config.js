@@ -35,6 +35,7 @@ module.exports = {
     `gatsby-plugin-fontawesome-css`,
     `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
+    `gatsby-remark-twitter-cards`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
