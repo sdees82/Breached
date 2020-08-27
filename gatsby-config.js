@@ -11,7 +11,7 @@ module.exports = {
         title: 'Breached.blog', // website title
         separator: '|', // default
         author: 'Sean Dees',
-        background: require.resolve('/src/images/breached-social.jpg'), // path to 1200x630px file or hex code, defaults to black (#000000)
+        background: require.resolve(`${__dirname}/src/images/breached-social.jpg`), // path to 1200x630px file or hex code, defaults to black (#000000)
         fontColor: '#228B22', // defaults to white (#ffffff)
         titleFontSize: 96, // default
         subtitleFontSize: 60, // default
