@@ -9,7 +9,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-const image = node.frontmatter.socialcard
 
 function SEO({ description, lang, meta, title }) {
   const { site } = useStaticQuery(
@@ -70,7 +69,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: image,
+          content: `https://breached.blog/images/breached-social.jpg`,
         },
       ].concat(meta)}
     />
