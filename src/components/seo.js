@@ -69,7 +69,7 @@ function SEO({ description, lang, meta, title, twitterImg }) {
         },
         {
           name: `og:image`,
-          content: `/social-card-317aa66e-ebfd-5b30-9eb4-0c848c69a9b0.jpg`,
+          content: `https://breached.blog/social-card-317aa66e-ebfd-5b30-9eb4-0c848c69a9b0.jpg`,
         },
       ].concat(meta)}
     />
