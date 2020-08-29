@@ -9,7 +9,7 @@ module.exports = {
       resolve: "gatsby-plugin-social-cards",
       options: {
         // image to use when no cover in frontmatter
-        backgroundImage: "./src/images/breached-social.jpg",
+        backgroundImage: "/social-card-317aa66e-ebfd-5b30-9eb4-0c848c69a9b0.jpg",
         // author to use when no auth in frontmatter
         defaultAuthor: "Sean Dees",
         // card design

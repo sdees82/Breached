@@ -12,6 +12,7 @@ export default ({data}) =>{
         <React.Fragment>
             
         <Header siteTitle={`breached`}/>
+        <Seo title={post.frontmatter.title}/>
         <div className="blog_page_container">
             <div className="blog_page_inner">
             <p>{post.frontmatter.date}</p>
