@@ -70,6 +70,7 @@ function SEO({ description, lang, meta, title }) {
         {
           name: `og:image`,
           content: `https://breached.blog/social-card-317aa66e-ebfd-5b30-9eb4-0c848c69a9b0.jpg
+
           `,
         },
       ].concat(meta)}
