@@ -2,13 +2,15 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import HyvorTalk from 'hyvor-talk-react'
 import Header from '../components/header'
+import SEO from "../components/seo"
 import './blog-post.css'
 
 export default ({data}) =>{
     const post = data.markdownRemark;
-
+    <SEO title={post.frontmatter.title} />
     return (
         <React.Fragment>
+            
         <Header siteTitle={`breached`}/>
         <div className="blog_page_container">
             <div className="blog_page_inner">
