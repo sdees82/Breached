@@ -13,7 +13,7 @@ module.exports = {
         // author to use when no auth in frontmatter
         defaultAuthor: "Sean Dees",
         // card design
-        design: "default", // 'default' or 'card'
+        design: "card", // 'default' or 'card'
       },
     },
     {
